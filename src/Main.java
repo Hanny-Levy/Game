@@ -26,6 +26,7 @@ public class Main {
             }  while (userNumber!=randomNumber);
 
     }
+    //git
     public static String [] arrayPlayersName (String[] array){
         Scanner scanner = new Scanner(System.in);
         for (int i=1 ; i<array.length ; i++)
